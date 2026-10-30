@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "cursor-park": "^0.0.2",
+    "cursor-park": "^0.0.4",
     "lit": "^3.3.2"
   },
   "devDependencies": {

@@ -61,7 +61,7 @@ const me = document.querySelector<'mouse-cursor'>('mouse-cursor#me' as any)!;
 const choreo = [
   {
     x: -2,
-    delay: 305.80000000447035,
+    delay: 1505.80000000447035,
   },
   {
     action: 'sitting',
