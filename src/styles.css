@@ -1,9 +1,16 @@
+@font-face {
+  font-family: Recursive;
+  src: url('/Recursive.woff2');
+  font-display: swap;
+}
+
 html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-synthesis: none;
   height: 100%;
+  font-family: Recursive;
 }
 
 body {
