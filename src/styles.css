@@ -1,0 +1,45 @@
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-synthesis: none;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  height: 100%;
+  /* max-width: calc(20rem + 70ch); */
+  /* margin: auto; */
+
+  cursor-bench {
+    flex: none;
+  }
+
+  cursor-library {
+    translate: 0 -25%;
+  }
+
+  /* aside {
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section {
+    background: blue;
+    flex: 1;
+    min-width: 70ch;
+    overflow-y: scroll;
+  }
+
+  main {
+    height: 1000px;
+  } */
+}
